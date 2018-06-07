@@ -1,0 +1,7 @@
+HTTP/1.0 200 OK
+Content-Type: applicaiton/json
+Content-Length: 580
+Server: Werkzeug/0.14.1 Python/3.5.2
+Date: Wed, 30 May 2018 05:18:35 GMT
+
+{"data": [{"Date": "01/01/2000 12:00:00 AM", "FIPS": "19003", "County": "Adams", "Active": ["946", "1,139", "", "1,089", "", "3,174"], "Inactive": ["23", "25", "", "59", "", "107"], "GrandTotal": "3,281", "Lat": "41.0289839", "Long": "-94.6991849", "CountyCoords": "(41.0289839, -94.6991849)"}, {"Date": "01/01/2001 12:00:00 AM", "FIPS": "19003", "County": "Adams", "Active": ["910", "1,091", "", "1,148", "", "3,149"], "Inactive": ["22", "21", "", "61", "", "104"], "GrandTotal": "3,253", "Lat": "41.0289839", "Long": "-94.6991849", "CountyCoords": "(41.0289839, -94.6991849)"}]}
